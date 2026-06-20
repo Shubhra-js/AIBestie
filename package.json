@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@google/genai": "^2.9.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "aibestie",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bestie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
